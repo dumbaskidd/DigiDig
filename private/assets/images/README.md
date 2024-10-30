@@ -1,0 +1,1 @@
+todas las imagenes estan subidas a "Pinterest", de manera que no necesitamos imagenes.
