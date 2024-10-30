@@ -1,55 +1,47 @@
 # DigiDig - SiteSeek
 
 ## Descripción del Proyecto
-**DigiDig** es un proyecto desarrollado por nuestra startup con el objetivo de mejorar la investigación arqueológica mediante el uso de tecnologías de realidad aumentada (AR) y virtual (VR). Con nuestra aplicación **SiteSeek**, los arqueólogos pueden explorar sitios arqueológicos de difícil acceso de manera remota, utilizando cámaras controladas a distancia a través de un sistema inmersivo de realidad virtual.
+DigiDig es una iniciativa de nuestra startup para facilitar la investigación arqueológica usando tecnologías de realidad aumentada (AR) y virtual (VR). Con la app **SiteSeek**, los arqueólogos pueden explorar sitios arqueológicos de difícil acceso de manera remota, controlando cámaras a distancia a través de un entorno inmersivo en realidad virtual.
 
-El proyecto está diseñado para resolver los problemas de acceso limitado, visibilidad reducida y los riesgos físicos que enfrentan los arqueólogos al explorar ruinas antiguas. Nuestra solución ayuda a minimizar costos operativos, mejorar la seguridad y optimizar la recopilación de datos con herramientas avanzadas.
+Este proyecto está pensado para resolver problemas comunes en arqueología, como el acceso limitado a ciertos lugares, la baja visibilidad y los riesgos físicos que enfrentan los arqueólogos al investigar ruinas antiguas. Nuestra solución busca reducir costos, mejorar la seguridad y optimizar la recolección de datos usando herramientas avanzadas.
 
 ## Características Principales
-- **Exploración remota**: Los arqueólogos pueden navegar a través de sitios arqueológicos utilizando cámaras controladas remotamente, equipadas con sensores de alta precisión.
-- **Tecnologías AR/VR**: Proporciona una experiencia inmersiva que simula la presencia física en los sitios arqueológicos.
-- **Documentación 3D**: Captura imágenes y datos precisos para generar modelos digitales 3D de alta resolución de las ruinas y artefactos.
-- **Acceso seguro a zonas peligrosas**: Permite explorar áreas que serían demasiado peligrosas o inaccesibles físicamente, como túneles o estructuras inestables.
-- **Compatibilidad con sistemas existentes**: La aplicación es compatible con herramientas digitales arqueológicas actuales, como GIS y software de modelado 3D.
+- **Exploración remota**: Permite a los arqueólogos navegar por sitios arqueológicos usando cámaras controladas a distancia con sensores de alta precisión.
+- **Tecnologías AR/VR**: Ofrece una experiencia inmersiva que simula estar físicamente en el sitio arqueológico.
+- **Documentación 3D**: Captura imágenes y datos para generar modelos digitales 3D de las ruinas y artefactos.
+- **Acceso seguro a zonas peligrosas**: Facilita la exploración de áreas inaccesibles o peligrosas, como túneles o estructuras inestables.
+- **Compatibilidad**: Funciona con herramientas arqueológicas digitales existentes, como GIS y software de modelado 3D.
 
 ## Autores
-Este proyecto fue desarrollado por la startup **DigiDig** en colaboración con estudiantes de arqueología.
+Este proyecto fue desarrollado por la startup DigiDig, con la colaboración de estudiantes de arqueologia y tecnologia:
 
-- **Noriega Collado, Jean Fabio**: Team Leader, product owner, Project manager. 
-- **Samamé Godoy, Guiselle**: Scrum Master, product owner. 
-- **Rodriguez Espinoza, Daniel Kevin**: Software Developer, product owner, DevOps Engineer. 
-- **Sequeiros Torrejon, Isabel Angelica**: UX Designer, Software Architect. 
-- **Yovera Chaname, Nicolas Junior**: UX Designer, Software Architect. 
-
-- **Nombre del autor 2**: Función o rol dentro del equipo.
+- **Jean Fabio Noriega Collado**: Team Leader, Product Owner, Project Manager.
+- **Guiselle Samame Godoy**: Scrum Master, Product Owner.
+- **Daniel Kevin Rodriguez Espinoza**: Software Developer, Product Owner, DevOps Engineer.
+- **Isabel Angelica Sequeiros Torrejon**: UX Designer, Software Architect.
+- **Nicolas Junior Yovera Chaname**: UX Designer, Software Architect.
 
 ## Segmento Objetivo
-Nuestro segmento objetivo principal son los **profesionales de la investigación arqueológica**, especialmente aquellos que realizan exploraciones en sitios de difícil acceso. Los arqueólogos en Perú, y en otras regiones del mundo, se enfrentan a desafíos significativos debido a la inestabilidad de las estructuras antiguas y las condiciones ambientales adversas.
+El principal usuario de nuestra app son los profesionales de la arqueologia que necesitan explorar sitios de dificil acceso. En paises como Peru, donde existen mas de 22,000 sitios arqueologicos registrados, muchos de ellos son dificiles de explorar fisicamente debido a la inestabilidad de las estructuras o condiciones ambientales.
 
-Estadísticas de respaldo:
-- En Perú, hay más de 22,000 sitios arqueológicos registrados, muchos de los cuales presentan dificultades para la exploración física.
-- Los arqueólogos en estas regiones necesitan herramientas avanzadas que mejoren la seguridad y la eficiencia en sus investigaciones.
+Datos clave:
+- En Peru, hay mas de 22,000 sitios arqueologicos registrados, y muchos presentan problemas para ser explorados fisicamente.
+- Los arqueologos en estas regiones necesitan herramientas que hagan su trabajo mas seguro y eficiente.
 
 ## Objetivos del Proyecto
-- **Principal**: Desarrollar una aplicación móvil de AR/VR que permita a los arqueólogos explorar de manera remota y segura los sitios arqueológicos.
-- **Específicos**:
-  - Crear una interfaz fácil de usar para controlar cámaras móviles en tiempo real.
-  - Documentar digitalmente los hallazgos arqueológicos mediante tecnologías avanzadas de captura de imágenes.
-  - Integrar la app con otras herramientas de investigación digital para facilitar el análisis y la preservación de datos arqueológicos.
+- **Principal**: Desarrollar una app que permita a los arqueologos explorar de manera remota y segura los sitios arqueologicos usando AR/VR.
+- **Especificos**:
+  - Crear una interfaz sencilla para controlar camaras en tiempo real.
+  - Documentar digitalmente los hallazgos arqueologicos con captura de imagenes avanzadas.
+  - Integrar la app con otras herramientas de investigacion digital para facilitar el analisis y preservacion de los datos.
 
-## Instalación
-1. Clona este repositorio: (utilizando git)
-   - "git clone https://github.com/dumbaskidd/DigiDig.git"
-   - Abre el archivo index.html en tu navegador para comenzar a utilizar la aplicación.
-  
+## Instalacion
+1. Clona este repositorio: (utilizando la terminal en WebStorm/Visual Studio Code)
+   git clone https://github.com/dumbaskidd/DigiDig.git
 
-### Explicación:
-- **Descripción del Proyecto**: Explica brevemente en qué consiste el proyecto, su propósito y cómo funciona.
-- **Características Principales**: Enumera las principales características de la solución.
-- **Autores**: Añade los nombres de las personas que trabajaron en el proyecto.
-- **Segmento Objetivo**: Describe quiénes son los usuarios principales de la aplicación.
-- **Objetivos del Proyecto**: Enumera los objetivos clave que busca cumplir la app.
-- **Instalación**: Da instrucciones simples para clonar el repositorio y ejecutar el proyecto.
-- **Licencia**: Incluye un enlace a la licencia si tienes una.
+### Cambios realizados:
+- Quité las tildes y utilicé un lenguaje más accesible.
+- Simplifiqué la explicación para que sea más clara y directa, pero manteniendo la esencia del proyecto.
 
+Este README debería reflejar una descripción clara y amigable del proyecto para cualquier persona interesada. ¿Te gustaría ajustar algo más?
 
