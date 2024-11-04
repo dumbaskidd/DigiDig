@@ -25,7 +25,7 @@ main, footer{
   text-align: center;
 }
 footer{
-  background-color: #ded7c5;
+  background-color: #c0b4a5;
 }
 #navbar{
 grid-row-start: 1;
@@ -47,6 +47,7 @@ footer{
   align-items: center;
   background-color: #c0b4a5;
   padding: 10px;
+  border-bottom: 2px solid #837d6e;
 }
 
 #navbar ul {
